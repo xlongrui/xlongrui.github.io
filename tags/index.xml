@@ -6,31 +6,6 @@
         <description>Recent content in Tags on xlongrui</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>xx</copyright>
-        <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://xlongrui.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Markdown</title>
-        <link>https://xlongrui.github.io/tags/markdown/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://xlongrui.github.io/tags/markdown/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tag With Whitespaces</title>
-        <link>https://xlongrui.github.io/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://xlongrui.github.io/tags/tag-with-whitespaces/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Text</title>
-        <link>https://xlongrui.github.io/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://xlongrui.github.io/tags/text/</guid>
-        <description></description>
-        </item>
-        
+        <copyright>xx</copyright><atom:link href="https://xlongrui.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
