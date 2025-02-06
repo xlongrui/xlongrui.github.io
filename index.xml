@@ -7,16 +7,29 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>xx</copyright>
-        <lastBuildDate>Tue, 31 Dec 2024 15:24:45 +0800</lastBuildDate><atom:link href="https://xlongrui.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 06 Feb 2025 10:00:52 +0800</lastBuildDate><atom:link href="https://xlongrui.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sp</title>
+        <link>https://xlongrui.github.io/p/sp/</link>
+        <pubDate>Thu, 06 Feb 2025 10:00:52 +0800</pubDate>
+        
+        <guid>https://xlongrui.github.io/p/sp/</guid>
+        <description>&lt;video width=&#34;640&#34; height=&#34;360&#34; controls&gt;
+  &lt;source src=&#34;https://xlongrui.github.io/videos/my-video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;</description>
+        </item>
+        <item>
         <title>不要再催了呜呜呜</title>
         <link>https://xlongrui.github.io/p/%E4%B8%8D%E8%A6%81%E5%86%8D%E5%82%AC%E4%BA%86%E5%91%9C%E5%91%9C%E5%91%9C/</link>
         <pubDate>Tue, 31 Dec 2024 15:24:45 +0800</pubDate>
         
         <guid>https://xlongrui.github.io/p/%E4%B8%8D%E8%A6%81%E5%86%8D%E5%82%AC%E4%BA%86%E5%91%9C%E5%91%9C%E5%91%9C/</guid>
         <description>&lt;p&gt;请看vcr！！！&lt;/p&gt;
-&lt;p&gt;（下次一定穿的像个人啊啊啊）&lt;/p&gt;
-&lt;p&gt;&lt;video src=&#34;戴戒指？？？！！！.mp4&#34;&gt;&lt;/video&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;（下次一定穿的像个人啊啊啊）&amp;ldquo;戴戒指？？？！！！.mp4&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;戴戒指？？？！！！.mp4&#34; controls width=&#34;640&#34; height=&#34;360&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;video width=&#34;640&#34; height=&#34;360&#34; controls&gt;
+         &lt;source src=&#34;../../../static/videos/戴戒指？？？！！！.mp4&#34; type=&#34;video\mp4&#34;&gt;
+&lt;/video&gt;</description>
         </item>
         <item>
         <title>成功</title>
